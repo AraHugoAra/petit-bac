@@ -1,6 +1,6 @@
 -- Project is live here: https://petit-bac-helper.netlify.app/ --
 
-It's a project I did for fun and that has no other goal but counting tokens during Nain Jaune's game (which is an old, like real old, card games) !
+It's a project I did for fun and that has no other goal but giving random categories, letters and keeping scores during scattergories games.
 
 # React + TypeScript + Vite
 
